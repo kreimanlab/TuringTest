@@ -15,10 +15,16 @@ As AI algorithms increasingly participate in daily activities, it becomes critic
 Access to our code, data, results, and plots [HERE](https://drive.google.com/file/d/1U2C1FqoCBpcp1VmYp1aTH0juMeP4u82A/view?usp=sharing)
 
 Once the zip file (~6GB) is downloaded, unzip it.
-The zip consists of six folders corresponding to each task: 
-Task 1: ```imagecaption```
-Task 2: ```wordAssociation```
-Task 3: ```conversation```
-Task 4: ```dominant_color_recognition```
-Task 5: ```multi_label_prediction```
-Task 6: ```attention_prediction_task```
+The zip consists of six folders corresponding to all the six tasks:
+*Task 1: ```imagecaption```
+*Task 2: ```wordAssociation```
+*Task 3: ```conversation```
+*Task 4: ```dominant_color_recognition```
+*Task 5: ```multi_label_prediction```
+*Task 6: ```attention_prediction_task```
+
+In each task, it contains a zip file with all the Amazon Mechanical Turk (AMT) studies. Unzip these folders. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing tests. 
+
+The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
+
+
