@@ -16,12 +16,18 @@ Access to our code, data, results, and plots [HERE](https://drive.google.com/fil
 
 Once the zip file (~6GB) is downloaded, unzip it.
 The zip consists of six folders corresponding to all the six tasks:
+
 -Task 1: ```imagecaption```
+
 -Task 2: ```wordAssociation```
+
 -Task 3: ```conversation```
-*Task 4: ```dominant_color_recognition```
-*Task 5: ```multi_label_prediction```
-*Task 6: ```attention_prediction_task```
+
+-Task 4: ```dominant_color_recognition```
+
+-Task 5: ```multi_label_prediction```
+
+-Task 6: ```attention_prediction_task```
 
 ## License
 
