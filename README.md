@@ -29,11 +29,10 @@ The zip consists of six folders corresponding to all the six tasks:
 
 -Task 6: ```attention_prediction_task```
 
+The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
+
 ## License
 
 See [Kreiman lab](http://klab.tch.harvard.edu/code/license_agreement.pdf) for license agreements before downloading and using our source codes and datasets.
 In each task, it contains a zip file with all the Amazon Mechanical Turk (AMT) studies. Unzip these folders. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing tests. 
-
-The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
-
 
