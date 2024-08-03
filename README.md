@@ -29,10 +29,45 @@ The zip consists of six folders corresponding to all the six tasks:
 
 -Task 6: ```attention_prediction_task```
 
+Unzip these folders. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing tests. 
+
 The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
 
+## Result analysis
+
+First, set up your python environment using Anaconda:
+```
+conda create -n py39 python=3.9
+```
+Activate the conda environment:
+```
+conda activate py39
+jupyter notebook
+```
+Refer to this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md) for installation of Anaconda.
+
+Within each task folder, go to ```Plot```, run all the jupyter notebook in sequence based on the naming conventions below.
+
+For example, in Task 1 ```imagecaption```, the jupyter notebooks are organized in the following sequence: ```Task1_PreCompileData.ipynb``` and ```Task1_RunX_Y.ipynb``` format, where ```X``` is the run number and ```Y``` is the function description of the notebook. 
+
+All the jupyter notebooks have to be run according to the following sequence, as the previous jupyter notebook might generate processed files and save those files before the next notebook takes them as inputs for further processing. 
+
+Always start by running ```Task1_PreCompileData.ipynb``` followed by ```Task1_Run1```, ```Task1_Run2```, ```Task1_Run3```, and so on. This is also applicable for other five tasks.
+
+## Plot figures in the paper
+
+For three language tasks, go to ```TuringGithub\conversation\Plot``` and run the following notebooks:
+```
+TaskAll_ConfmatOverall
+TaskALL_LayoutFigures
+```
+For three vision tasks, go to ```TuringGithub\attention_prediction_task\Plot``` and run the following notebooks:
+```
+Task4_6_ConfmatOverall
+Task4_6_LayoutFigures
+```
 ## License
 
 See [Kreiman lab](http://klab.tch.harvard.edu/code/license_agreement.pdf) for license agreements before downloading and using our source codes and datasets.
-In each task, it contains a zip file with all the Amazon Mechanical Turk (AMT) studies. Unzip these folders. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing tests. 
+In each task, it contains a zip file with all the Amazon Mechanical Turk (AMT) studies. 
 
