@@ -10,7 +10,7 @@ Note that all the files are of large sizes. Download all the code, data, and res
 
 ## Project Description
 
-As AI algorithms increasingly participate in daily activities, it becomes critical to ascertain whether the agents we interact with are human or not. To address this question, we turn to the Turing test and systematically benchmark current AIs in their abilities to imitate humans in three language tasks (Image captioning, Word association, and Conversation) and three vision tasks (Object detection, Color estimation, and Attention prediction). The experiments involved 549 human agents plus 26 AI agents for dataset creation, and 1,126 human judges plus 10 AI judges, in 25,650 Turing-like tests. The results reveal that current AIs are not far from being able to impersonate humans in complex language and vision challenges. While human judges are often deceived, simple AI judges outperform human judges in distinguishing human answers from AI answers. The results of imitation tests are only minimally correlated with standard performance metrics in AI; thus, evaluating whether a machine can pass as a human constitutes an important independent test to evaluate AI algorithms. The curated, large-scale, Turing datasets introduced here and their evaluation metrics provide new benchmarks and insights to assess whether an agent is human or not and emphasize the relevance of rigorous, systematic, and quantitative imitation tests in other AI domains. 
+As AI becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. We systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association, conversation) and three vision tasks (color estimation, object detection, attention prediction), collecting data from 636 humans and 37 AI agents. Next, we conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development.
 
 ## How To Use the Code
 
@@ -57,16 +57,16 @@ For example, in Task 1 ```imagecaption```, the jupyter notebooks are organized i
 
 All the jupyter notebooks have to be run according to the following sequence, as the previous jupyter notebook might generate processed files and save those files before the next notebook takes them as inputs for further processing. 
 
-Always start by running ```Task1_PreCompileData.ipynb``` followed by ```Task1_Run1```, ```Task1_Run2```, ```Task1_Run3```, and so on. This is also applicable for other five tasks.
+Always start by running ```Task1_PreCompileData.ipynb``` followed by ```Task1_Run1```, ```Task1_Run2```, ```Task1_Run3```, and so on. This is also applicable for the other five tasks.
 
 ## Plot figures in the paper
 
-For three language tasks, go to ```TuringGithub\conversation\Plot``` and run the following notebooks:
+For the three language tasks, go to ```TuringGithub\conversation\Plot``` and run the following notebooks:
 ```
 TaskAll_ConfmatOverall
 TaskALL_LayoutFigures
 ```
-For three vision tasks, go to ```TuringGithub\attention_prediction_task\Plot``` and run the following notebooks:
+For the three vision tasks, go to ```TuringGithub\attention_prediction_task\Plot``` and run the following notebooks:
 ```
 Task4_6_ConfmatOverall
 Task4_6_LayoutFigures
