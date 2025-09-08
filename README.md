@@ -36,7 +36,7 @@ Go to each of these folders and unzip ```MturkExps.zip```. Each of these AMT fol
 The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
 
 ## Software requirements
-The code is written in python (for data analysis) and Javascript (for the Human Intelligence Tasks), and as such can run on the vast majorities of computers. We have ran it on macs and pcs (macOS and Windows). For collecting new Turing responses, a MTurk or Prolific account will be necessary. 
+The code is written in Python (for data analysis) and Javascript (for the Human Psychophysics Experiments), and as such can run on the vast majorities of computers. We have ran it on macs and pcs (macOS and Windows). For collecting new Turing responses, a MTurk or Prolific account will be necessary. 
 
 ## Result analysis
 
