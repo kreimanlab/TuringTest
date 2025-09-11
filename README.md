@@ -36,7 +36,51 @@ Go to each of these folders and unzip ```MturkExps.zip```. Each of these AMT fol
 The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
 
 ## Software requirements
-The code is written in Python (for data analysis) and Javascript (for the Human Psychophysics Experiments), and as such can run on the vast majorities of computers. We have ran it on macs and pcs (macOS and Windows). For collecting new Turing responses, a MTurk or Prolific account will be necessary. 
+This project uses **Python** (for data analysis) and **JavaScript** (for human psychophysics experiments) and can run on most modern computers.
+To collect new Turing responses, you will need an **MTurk** or **Prolific** account.
+
+### Python Packages for Data Analysis
+
+Install these packages to run the core analysis code:
+
+* `numpy`
+* `matplotlib`
+* `colour`
+* `seaborn`
+* `pandas`
+* `pingouin`
+* `scipy`
+* `statsmodels`
+* `scikit-learn`
+
+### Additional Packages for AI Agents and AI Judges
+
+For the AI agent and AI judge code, please also install:
+
+* `torch`
+* `torchvision`
+* `openai`
+* `huggingface_hub`
+* `open-flamingo`
+* `tqdm`
+* `Pillow`
+
+### AI Agents
+
+We used a variety of AI models across tasks (see Table S1 in the paper).
+Please refer to each model’s official documentation for installation and usage in their official repositories:
+
+* [GPT-4](https://openai.com/)
+* [ChatGPT-4](https://openai.com/)
+* [BLIP-Large](https://github.com/salesforce/BLIP)
+* [OFA-Huge](https://github.com/OFA-Sys/OFA)
+* [OpenFlamingo-4B](https://github.com/mlfoundations/open_flamingo)
+* [Microsoft Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/)
+* [Google Vision API](https://cloud.google.com/vision)
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+* [LLaVA](https://github.com/haotian-liu/LLaVA)
+* [SCST model](https://github.com/ruotianluo/self-critical.pytorch)
+* *(…and other models listed in Table S1)*
 
 ## Result analysis
 
