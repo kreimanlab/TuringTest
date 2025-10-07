@@ -121,7 +121,7 @@ Task4_6_LayoutFigures
 ## Instructions for the post-rebuttal repository
 Access to our code, data, results, and plots after the rebuttal [HERE](https://drive.google.com/drive/folders/17xp1r3KeQVjCZ5yw4wa8epoVN6gLsVVg?usp=sharing)
 
-Follow the readme inside.
+Follow the README_how_to_run_code.md
 
 For a quick glance, we provide the example source files within the ```imageCaptioning\Plot```. You may refer to the readme file inside the ```imageCaptioning\Plot\readme.md``` for more details.
 
