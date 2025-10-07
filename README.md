@@ -15,6 +15,7 @@ As AI becomes increasingly embedded in daily life, ascertaining whether an agent
 ## How To Use the Code
 
 The code is itemized in the individual tasks here on github. For space constraints, many of the datasets used for the tasks, and all the plots, are not loaded. For the complete set of results, with plots and data in addition to code, please refer to our google drive. 
+For more directions on specifics of the code, please read the README_how_to_run_code.md
 
 Access to our code, data, results, and plots [HERE](https://drive.google.com/file/d/1U2C1FqoCBpcp1VmYp1aTH0juMeP4u82A/view?usp=sharing)
 
