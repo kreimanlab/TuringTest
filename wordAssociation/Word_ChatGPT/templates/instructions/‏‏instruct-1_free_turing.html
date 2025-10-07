@@ -1,0 +1,67 @@
+<html>
+    <head>
+	<div id="container-instructions">
+
+		<h1>Instructions</h1>
+
+		<hr />
+
+		<div class="instructions well">
+
+		    <p>
+			 In each trial of this task you will be given two words in English. One of the word is a 'cue word' and the other word is its association. The association has been made by either a human or an AI model. 
+ <STRONG> Your task is to decide whether the association has been made by a human or an AI.	  </STRONG>	
+
+  
+			<br>
+			
+		</p>
+
+	    <STRONG>NOTE: Below is a sample trial. In this example, the given cue word is 'dog', and the subject's (AI or human) association is 'cat'.     </STRONG>
+
+		    <script type="text/javascript">
+		    //console.log(psiTurk.getInstructionIndicator())
+		    </script>    
+
+		</div>      
+	    <br>
+	    
+	    <center>
+		<br> <STRONG> Do you think that the association below has been made by a human or an AI model?  </STRONG> </br>
+<br>
+<br>
+	    	 Cue: dog; Association: cat
+	    </center>
+		
+	    <center>
+		<br>
+		<br>
+	
+		
+		
+		<div id="stim"></div>	
+
+		
+		
+         		<br> <STRONG> Your Decision:  </STRONG><br>
+			<form id="guess_decision">
+			<input type="radio" name="guess_decision" value="AI"  > AI
+			<input type="radio" name="guess_decision" value="human">human
+			</form>
+
+	    </center>
+	    
+	    <div class="instructionsnav">        
+		<button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue" onclick="instruct_ready()" >
+			Next <span class="glyphicon glyphicon-arrow-right"></span>
+		</button>
+	    </div>
+	    
+
+		<hr />
+	    
+	</div>
+
+    </body>
+</html>
+

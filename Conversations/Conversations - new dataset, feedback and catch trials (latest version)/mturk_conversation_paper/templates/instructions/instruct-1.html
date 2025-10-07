@@ -1,0 +1,156 @@
+<html>
+    <head>
+	<div id="container-instructions">
+
+		<h1>Instructions</h1>
+
+	<style>
+	    iframe{
+	        width: 100%;
+	        border: 2px solid #ccc;
+	    }
+	</style>
+
+	</head>
+
+	<body>
+		<hr />
+
+		<div class="instructions well">
+
+			<p>
+				You will be presented with 32 written conversations of various lengths between two speakers (A and B). After carefully reading each conversation, you must determine whether the speakers are human or AI chatbots and identify their gender. 
+				You will also need to select the topic of the conversation from five options.  
+			</p>
+			
+			<p style="color: #d9534f; background-color: #f2dede; padding: 10px; border: 1px solid #d9534f; border-radius: 5px;">
+				<strong>IMPORTANT 1:</strong> Read the entire conversations CAREFULLY. Your topic accuracy will be tracked in the top right corner. You must correctly identify at least 20/32 topics for your work to be accepted. The performance tracker will show your progress in real-time. <br><br>
+				<strong>IMPORTANT 2:</strong> There are some trials to verify you are paying attention. In these, there is an obvious human and an obvious non-human agent. If you fail to correctly identify the two agents in these trials, your experiment will terminate early, with a reduced compensation for your time. 
+			</p>
+			
+			<p><strong>Half of the speakers in this experiment are human, and half are AI chatbots (50/50 split).</strong></p>
+
+			<p style="color: #5cb85c; background-color: #dff0d8; padding: 10px; border: 1px solid #5cb85c; border-radius: 5px;">
+				<strong>BONUS OPPORTUNITY:</strong> While topic identification is required for acceptance, your BONUS will be based on your accuracy in identifying humans vs. AI chatbots. For each correctly identified trial, you will get an extra 15 cents, up to 4.95$ bonus!
+				Please pay attention! A or B could start the conversation! 
+			</p>
+
+			<p><strong> Technical notes</strong>
+			1: This experiment better works if you have a 13 inch screen or bigger. 
+			2: We are aware that for some users the topic options are small and annoying. As a general rule, the topics are one of 13: movies, music, food, sports, science, technology, general_entertainment, traffic, quarrel, emotions, fashion, books, politics. The longer labels might get caught off. We are aware, and you will not be penalized for this. 
+			
+			</p>
+			
+			<p>Below is a sample trial. A conversation between two speakers is shown. In this example, the responses chosen by the worker are the following: the topic of the conversation is option 2; speaker A is a woman; speaker B is a male machine (chatbot).</p>
+		    <script type="text/javascript">
+		    //console.log(psiTurk.getInstructionIndicator())
+		    </script>    
+
+		</div>      
+	    <br>
+
+	        
+	    <center>
+	    		<iframe src="/static/dataset_new/conv70_len18.html" 
+	    	    		id="child-iframe">	
+	    	    </iframe>
+	    	   <script>
+					let iframe = document.querySelector("#child-iframe");
+
+					window.addEventListener('message', function(e) {
+						// message that was passed from iframe page
+						let message = e.data;
+
+						iframe.style.height = message.height + 'px';
+						iframe.style.width = message.width + 'px';
+					} , false);
+				</script>
+
+
+	    </center>
+	    <center>
+	    	<p>  </p>
+		    <center>Choose your responses from the lists below:</center>
+		    
+		<p>  </p>
+		
+		<div id="stim"></div>			
+		
+		<form> <b>The conversation topic is: </b>
+		<label class="radio-inline">
+		<input type="radio" id="topic1" name="topic" value="1" checked="checked"> <iframe src="/static/dataset_new/conv70_len18option1.html" style="height:27px;width:100px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic2" name="topic" value="2"><iframe src="/static/dataset_new/conv70_len18option2.html" style="height:27px;width:100px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic3" name="topic" value="3"><iframe src="/static/dataset_new/conv70_len18option3.html" style="height:27px;width:100px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic4" name="topic" value="4" ><iframe src="/static/dataset_new/conv70_len18option4.html" style="height:27px;width:100px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic5" name="topic" value="5"><iframe src="/static/dataset_new/conv70_len18option5.html" style="height:27px;width:100px;border:0px;" ></iframe>
+		</label>
+		</form>
+		
+		<p>  </p>	
+
+		
+		<div id="stim"></div>		
+
+		<form> <b>Which option is correct? </b><br>
+		<label class="radio-inline">
+		<input type="radio" id="Aclass1" name="Aclass" value="HH"> A=human, B=human
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass2" name="Aclass" value="HAI" checked="checked"> A=human, B=machine
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass3" name="Aclass" value="AIH"> A=machine, B=human
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass4" name="Aclass" value="AIAI"> A=machine, B=machine
+		</label><br>
+		<input type="hidden" id="Aclassnotchosen" name="Aclass" value="notchosen" checked="checked">
+		</form>	
+		
+		<form> <b> The gender of A is: </b>
+		<label class="radio-inline">
+		  <input type="radio" id="Agender1" name="Agender" value="F" checked="checked">female
+		</label>
+		<label class="radio-inline">
+		  <input type="radio" id="Agender2" name="Agender" value="M">male
+		</label>
+		
+		</form>
+
+		
+		<p>  </p>
+		
+		<form> <b> The gender of B is: </b>
+		<label class="radio-inline">
+		  <input type="radio" id="Bgender1" name="Bgender" value="F">female 
+		</label>
+		<label class="radio-inline">
+		  <input type="radio" id="Bgender2" name="Bgender" value="M" checked="checked">male
+		</label>
+		
+		</form>
+
+	    </center>
+	    
+	    <div class="instructionsnav">        
+		<button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue" onclick="instruct_ready()">
+			Next <span class="glyphicon glyphicon-arrow-right"></span>
+		</button>
+	    </div>
+	    
+
+		<hr />
+	    
+	</div>
+
+    </body>
+</html>
+

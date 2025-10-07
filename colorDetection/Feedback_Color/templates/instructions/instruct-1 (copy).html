@@ -1,0 +1,139 @@
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+
+
+<div id="container-instructions">
+
+	<h1>Instructions</h1>
+
+	<hr />
+
+	<div class="instructions well">
+
+	    <p>
+		    You will be presented with 25 images and asked two questions about each image. Below we give instructions for answering these questions:<br><br>
+
+            Question.1) What do you see in the image?<br>
+            Instructions: Please answer with three one-word responses - one per text input box as shown below.<br><br>
+
+            Question.2) What is the dominant color in this image?<br>
+            Instructions: Pick one color from the drop down list.<br><br>
+
+            You can choose to spend as much time as you'd like to view the image and write your responses.<br>
+                
+        </p>
+
+    <STRONG>Below is a sample trial. In this example, one possible answer for the first question could be responding with "Room", "TV" and "Chairs". For the second question, "Yellow" might be a potential answer.</STRONG>
+
+	    <script type="text/javascript">
+	    //console.log(psiTurk.getInstructionIndicator())
+	    </script>    
+
+	</div>      
+    <br>
+
+    <div class="container">
+        <div class="row">
+          <div class="span4"></div>
+            <div class="span4"><img class="center-block" src="{{ server_location }}/static/dataset/coco_val_set/1.jpg" alt="stimuli" width="1280" height="1024" /></div>
+          <div class="span4"></div>
+        </div>
+    </div>
+
+    <<!-- center>What do you see in this image?</center>
+
+    <center> <input id="tag1" name="tag1" placeholder="Room" required="" size="30" type="text" /></center>
+    <center> <input id="tag2" name="tag2" placeholder="TV" required="" size="30" type="text" /></center>
+    <center> <input id="tag2" name="tag2" placeholder="Chairs" required="" size="30" type="text" /></center>
+          
+    
+    
+    <center>What is the dominant color in this image?</center>
+    <center>
+        <select name="colors" id="color-select">
+        <option value="">Yellow</option>
+        <option value="Red">Red</option>
+        <option value="Pink">Pink</option>
+        <option value="Orange">Orange</option>
+        <option value="Purple">Purple</option>
+        <option value="Green">Green</option>
+        <option value="Blue">Blue</option>
+        <option value="Brown">Brown</option>
+        <option value="Gray">Gray</option>
+        <option value="Black">Black</option>
+        </select>
+    </center>
+
+     -->
+
+    <div class="row">
+             <div class="column">
+                <center><h3>What do you see in this image?</h3></center><br>
+                <p>Please provide three one-word responses. One per text box below.</p>
+                <center><input id="response" name="response" value="" size="30" type="text" placeholder="" required></center>
+                <center><input id="response2" name="response2" value="" size="30" type="text" placeholder="" required></center>
+                <center><input id="response3" name="response3" value="" size="30" type="text" required></center>
+             </div>
+
+            <div class="column">
+
+                <center><h3>What is the dominant color in this image?</h3></center><br>
+                <p>Please select from the drop down menu.</p>
+
+                <center>
+                    <select name="colors" id="color-select">
+                        <option value="">--Please choose an option--</option>
+                        <option value="Red">Red</option>
+                        <option value="Pink">Pink</option>
+                        <option value="Orange">Orange</option>
+                        <option value="Yellow">Yellow</option>
+                        <option value="Purple">Purple</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Brown">Brown</option>
+                        <option value="Gray">Gray</option>
+                        <option value="Black">Black</option>
+                    </select>
+                </center>
+            </div>
+       </div>
+
+       <br><br>
+
+    <div class="row">
+        <center>
+            <div class="instructionsnav">        
+                <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue">
+                        Next <span class="glyphicon glyphicon-arrow-right"></span>
+                </button>
+            </div>
+        <!-- <button type="button" id="submittrial" value="submittrial" class="btn btn-primary btn-lg pull-right">
+                Submit <span class="glyphicon glyphicon-arrow-right"></span>
+        </button> -->
+        </center>
+    </div>    
+
+<!--     <div class="instructionsnav">        
+        <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue">
+                Next <span class="glyphicon glyphicon-arrow-right"></span>
+        </button>
+    </div> -->
+	<hr />
+    
+</div>

@@ -1,0 +1,151 @@
+=============== subj 1 =======================
+{"rt": 4497, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 1, "phase": "TEST", "response": "table1"}
+{"rt": 3895, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 2, "phase": "TEST", "response": "table2"}
+{"rt": 3470, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 3, "phase": "TEST", "response": "table3"}
+{"rt": 3944, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 4, "phase": "TEST", "response": "table4"}
+{"rt": 3327, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 5, "phase": "TEST", "response": "chair1"}
+{"rt": 5560, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 6, "phase": "TEST", "response": "chair2"}
+{"rt": 3720, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 7, "phase": "TEST", "response": "chair3"}
+{"rt": 3728, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 8, "phase": "TEST", "response": "chair4"}
+{"rt": 3895, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 9, "phase": "TEST", "response": "chair5"}
+{"rt": 5576, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 10, "phase": "TEST", "response": "table5"}
+accu =10/10
+
+
+
+=============== subj 2 =======================
+{"rt": 7484, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 1, "phase": "TEST", "response": "desk"}
+{"rt": 6108, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 2, "phase": "TEST", "response": "table"}
+{"rt": 5988, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 3, "phase": "TEST", "response": "table"}
+{"rt": 6213, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 4, "phase": "TEST", "response": "chair"}
+{"rt": 6082, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 5, "phase": "TEST", "response": "chair"}
+{"rt": 5001, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 6, "phase": "TEST", "response": "table"}
+{"rt": 6105, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 7, "phase": "TEST", "response": "chair"}
+{"rt": 4769, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 8, "phase": "TEST", "response": "table"}
+{"rt": 4817, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 9, "phase": "TEST", "response": "chair"}
+{"rt": 4910, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =10/10
+
+
+
+
+=============== subj 3 =======================
+{"rt": 5266, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 1, "phase": "TEST", "response": "Table"}
+{"rt": 4480, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 2, "phase": "TEST", "response": "Table"}
+{"rt": 4128, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 3, "phase": "TEST", "response": "Chair"}
+{"rt": 3663, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 4, "phase": "TEST", "response": "Chair"}
+{"rt": 5288, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 5, "phase": "TEST", "response": "Chair"}
+{"rt": 4249, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 6, "phase": "TEST", "response": "Table"}
+{"rt": 3232, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 7, "phase": "TEST", "response": "Chair"}
+{"rt": 3249, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 8, "phase": "TEST", "response": "Table"}
+{"rt": 3256, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 9, "phase": "TEST", "response": "Table"}
+{"rt": 3359, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 10, "phase": "TEST", "response": "Chair"}
+accu =10/10
+
+
+
+=============== subj 4 =======================
+{"rt": 6907, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 1, "phase": "TEST", "response": "chair"}
+{"rt": 5151, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 2, "phase": "TEST", "response": "table"}
+{"rt": 9383, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 3, "phase": "TEST", "response": "chair"}
+{"rt": 5287, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 4, "phase": "TEST", "response": "table"}
+{"rt": 5135, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 5, "phase": "TEST", "response": "desk"}
+{"rt": 7135, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 6, "phase": "TEST", "response": "table"}
+{"rt": 11472, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 7, "phase": "TEST", "response": "sofa"}
+{"rt": 5160, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 8, "phase": "TEST", "response": "chair"}
+{"rt": 6215, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 7256, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =10/10
+
+
+
+=============== subj 5 =======================
+{"rt": 8595, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 1, "phase": "TEST", "response": "desk"}
+{"rt": 4009, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 2, "phase": "TEST", "response": "table"}
+{"rt": 4247, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 3, "phase": "TEST", "response": "table"}
+{"rt": 4079, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 4, "phase": "TEST", "response": "chair"}
+{"rt": 3687, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 5, "phase": "TEST", "response": "chair"}
+{"rt": 5344, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 6, "phase": "TEST", "response": "table"}
+{"rt": 3304, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 7, "phase": "TEST", "response": "chair"}
+{"rt": 3391, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 8, "phase": "TEST", "response": "chair"}
+{"rt": 3888, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 3871, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =10/10
+
+
+
+=============== subj 6 =======================
+{"rt": 3988, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 1, "phase": "TEST", "response": "chair"}
+{"rt": 3739, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 2, "phase": "TEST", "response": "table"}
+{"rt": 3009, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 3, "phase": "TEST", "response": "table"}
+{"rt": 3174, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 4, "phase": "TEST", "response": "chair"}
+{"rt": 3137, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 5, "phase": "TEST", "response": "chair"}
+{"rt": 2665, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 6, "phase": "TEST", "response": "chair"}
+{"rt": 2895, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 7, "phase": "TEST", "response": "table"}
+{"rt": 3207, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 8, "phase": "TEST", "response": "table"}
+{"rt": 4884, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 3172, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =10/10
+
+
+
+=============== subj 7 =======================
+{"rt": 5196, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 1, "phase": "TEST", "response": "desk"}
+{"rt": 4919, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 2, "phase": "TEST", "response": "chair"}
+{"rt": 4664, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 3, "phase": "TEST", "response": "chair"}
+{"rt": 5272, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 4, "phase": "TEST", "response": "table"}
+{"rt": 4248, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 5, "phase": "TEST", "response": "chair"}
+{"rt": 4024, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 6, "phase": "TEST", "response": "chair"}
+{"rt": 4279, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 7, "phase": "TEST", "response": "table"}
+{"rt": 4112, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 8, "phase": "TEST", "response": "table"}
+{"rt": 4351, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 4126, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =10/10
+
+
+
+=============== subj 8 =======================
+{"rt": 10147, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 1, "phase": "TEST", "response": "chair"}
+{"rt": 12632, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 2, "phase": "TEST", "response": "table legs"}
+{"rt": 5561, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 3, "phase": "TEST", "response": "chair"}
+{"rt": 8255, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 4, "phase": "TEST", "response": "lounge chair"}
+{"rt": 4431, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 5, "phase": "TEST", "response": "desk"}
+{"rt": 12171, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 6, "phase": "TEST", "response": "camping chair"}
+{"rt": 9862, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 7, "phase": "TEST", "response": "office chair"}
+{"rt": 5031, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 8, "phase": "TEST", "response": "table"}
+{"rt": 4880, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 6160, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 10, "phase": "TEST", "response": "end table"}
+accu =10/10
+
+
+
+
+=============== subj 9 =======================
+{"rt": 2868, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 1, "phase": "TEST", "response": "chair"}
+{"rt": 4632, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 2, "phase": "TEST", "response": "table"}
+{"rt": 5822, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 3, "phase": "TEST", "response": "table"}
+{"rt": 2597, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 4, "phase": "TEST", "response": "table"}
+{"rt": 4940, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 5, "phase": "TEST", "response": "table"}
+{"rt": 3361, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 6, "phase": "TEST", "response": "chair"}
+{"rt": 8225, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 7, "phase": "TEST", "response": "chair"}
+{"rt": 6113, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 8, "phase": "TEST", "response": "chair"}
+{"rt": 6038, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 9, "phase": "TEST", "response": "chair"}
+{"rt": 3225, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 10, "phase": "TEST", "response": "chair"}
+accu =9/10
+
+
+
+=============== subj 10 =======================
+{"rt": 7923, "hit": 2, "imageID": "static/dataset/gif_2.gif", "trial": 1, "phase": "TEST", "response": "chair"}
+{"rt": 4637, "hit": 5, "imageID": "static/dataset/gif_5.gif", "trial": 2, "phase": "TEST", "response": "chair"}
+{"rt": 4433, "hit": 3, "imageID": "static/dataset/gif_3.gif", "trial": 3, "phase": "TEST", "response": "chair"}
+{"rt": 5334, "hit": 1, "imageID": "static/dataset/gif_1.gif", "trial": 4, "phase": "TEST", "response": "chair"}
+{"rt": 7203, "hit": 4, "imageID": "static/dataset/gif_4.gif", "trial": 5, "phase": "TEST", "response": "chair"}
+{"rt": 15431, "hit": 8, "imageID": "static/dataset/gif_8.gif", "trial": 6, "phase": "TEST", "response": "chair"}
+{"rt": 3934, "hit": 9, "imageID": "static/dataset/gif_9.gif", "trial": 7, "phase": "TEST", "response": "table"}
+{"rt": 3991, "hit": 7, "imageID": "static/dataset/gif_7.gif", "trial": 8, "phase": "TEST", "response": "table"}
+{"rt": 10684, "hit": 10, "imageID": "static/dataset/gif_10.gif", "trial": 9, "phase": "TEST", "response": "table"}
+{"rt": 4051, "hit": 6, "imageID": "static/dataset/gif_6.gif", "trial": 10, "phase": "TEST", "response": "table"}
+accu =9/10
+
+

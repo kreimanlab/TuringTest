@@ -1,0 +1,92 @@
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+
+
+<div id="container-instructions">
+
+	<h1>Instructions</h1>
+
+	<hr />
+
+	<div class="instructions well">
+
+	    <p>Several human subjects and Artifical Intelligence (AI) machines were shown the image below and asked - "What is the dominant color in this image?". Below is a sample image and the color chosen by one speaker.
+        <p>
+
+        <STRONG> Your task is to tell whether these responses were given by a human or a machine. We also ask you a simple yes/no question about the contents of image to ensure you pay attention.</STRONG>
+
+        <p>
+
+        You will be presented with 100 such pictures and corresponding responses. Feel free to use as much time as you need to answer. In this example trial, the worker chose: 'Yes' the image contains wooden floor, and answered that this response was given by a machine.
+        <p>
+        For the first 40 pictures, the correct answer is provided after you submit your answer; for the rest 60 trials, no feedback is given
+	</div>
+    <br>
+
+
+    <center>
+    <h1>Please answer below.</h1>
+    <img src="static/dataset/coco_val_set/1.jpg" alt="stimuli" height="512">
+     <br> <center><h4>Question: What is the dominant color in this image? <br> Speaker Response: Yellow</h4></center>
+    </center>
+    <div id="container-exp">
+        <div class="container">
+            <div id="trial">
+                <center>
+                  <table>
+                      <tr>
+                          <td style="max-width:300px;">
+                              <b>Does the image contain the following - "wooden floor"? </b>
+                              <div id="stim"></div>
+
+                              <center>
+                              <form>
+                              <input type="radio" id="topic1" name="topic" value="1" checked="checked">
+                                <label for="topic1"> Yes </label><br>
+                                <input type="radio" id="topic2" name="topic" value="2">
+                                <label for="topic2"> No </label><br>
+                              </form>
+                              </center>
+                          </td>
+
+                          <td style="max-width:300px;">
+                              <b>Is the speaker a human or a machine agent? </b>
+                              <div id="stim"></div>
+                              <center>
+                              <form>
+                              <input type="radio" id="Aclass1" name="Aclass" value="H">
+                                <label for="Aclass1"> Human </label><br>
+                                <input type="radio" id="Aclass2" name="Aclass" value="AI" checked="checked">
+                                <label for="Aclass2"> Machine </label><br>
+                              </form>
+                          </center>
+                          </td>
+                      </tr>
+                  </table>
+
+                  <div class="instructionsnav">
+                      <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue" onclick="instruct_ready()">
+                              Next <span class="glyphicon glyphicon-arrow-right"></span>
+                      </button>
+                  </div>
+              </center>
+
+            </div>
+      </div>
+    </div>

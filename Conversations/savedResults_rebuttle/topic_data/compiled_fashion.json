@@ -1,0 +1,4332 @@
+{
+  "inlab": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "master",
+          "country": "Spain"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 37457,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 60156,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 85162,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 18735,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 31902,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 31893,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 139778,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 29599,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 34534,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "master",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 10514,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 44148,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 30757,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len12.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 21193,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "pg",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 23375,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 23957,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "pg",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 39205,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 43518,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv128_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 48474,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 81592,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 29915,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 105181,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "Spain"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 58354,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv128_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 58218,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 18972,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv84_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 11903,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 44467,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 115946,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 57175,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "prolific": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 44562,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 33090,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 23198,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 51434,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 10697,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv258_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 454758,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 86798,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 18209,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 37102,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len9.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 106550,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 24391,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 49409,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 26024,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 99575,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 80893,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 11875,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv258_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 12267,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 21767,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 34642,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 61612,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 35659,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 72927,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 54005,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 25245,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 76945,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "middle school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 68607,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv258_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 135457,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 28833,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 12086,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 38181,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 132276,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 78107,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 80221,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv84_len15.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 27181,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 62174,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv128_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 15297,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 29391,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 17625,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv258_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 14573,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 45737,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 27800,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv128_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 97319,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 33388,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 27176,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 73000,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 27859,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv84_len12.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 16235,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv83_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 52412,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv96_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 32167,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 48368,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv105_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "mturk": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 75744,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 69925,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 112444,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 153699,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 88267,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 73534,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 47153,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 25945,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len15.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 31490,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 26068,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 14012,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv84_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 22021,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 29669,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 88571,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len15.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 72828,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 55631,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 26415,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 35818,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 27181,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 23371,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 25244,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 13367,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 21173,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 58511,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 28160,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 43875,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 16143,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 50352,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len9.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 32499,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 35615,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 33800,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv128_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 60540,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 95411,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 98283,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 33811,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 33822,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len12.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 26635,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 29727,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 23805,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 149411,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 129561,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 89800,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 19501,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 35869,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 70437,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 8278,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len24.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 6318,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv258_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 34498,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 43998,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 83658,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 42463,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv236_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 44789,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 29315,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 96130,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 62604,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 94461,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 23349,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 39395,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 38468,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 33197,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 11521,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 12213,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 20952,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 8398,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 49642,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 27987,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 13023,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 27703,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 30758,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 29636,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len21.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 15317,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 35055,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 74124,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 11212,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 74824,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 68643,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len18.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 16784,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len3.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 28476,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 21097,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv20_len3.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 233037,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 33055,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 76747,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 27109,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 17022,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 77566,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 47363,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len9.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 33778,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len9.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 19396,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 26888,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 24920,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len24.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 84,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 13597,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv84_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 23079,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv105_len12.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 13497,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 12534,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 14486,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 55017,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 34310,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv236_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 128,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 25630,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv128_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 105,
+              "topic": "5",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 38451,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv105_len6.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 15661,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv20_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 12676,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 258,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 28550,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv258_len18.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 32144,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len3.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 83,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 19460,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv83_len15.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 96,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 51932,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv96_len6.html",
+              "assigned_topic": "fashion"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 236,
+              "topic": "3",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 29307,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv236_len12.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "chatgpt": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "AIAI",
+              "rt": 12176,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 27261,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "non_binary",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 24355,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "HAI",
+              "rt": 24970,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 20203,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Sudan"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "AIAI",
+              "rt": 65693,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 14,
+              "Aclass": "HH",
+              "rt": 11427,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len14.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 14,
+              "Aclass": "AIAI",
+              "rt": 38739,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len14.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 39636,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 59694,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 14,
+              "Aclass": "AIAI",
+              "rt": 22348,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len14.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 26681,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 15757,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 7,
+              "Aclass": "AIH",
+              "rt": 42293,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len7.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 20,
+              "topic": "books",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 25518,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv20_len21.html",
+              "assigned_topic": "fashion"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

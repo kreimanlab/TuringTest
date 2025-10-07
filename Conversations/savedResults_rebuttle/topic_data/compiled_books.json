@@ -1,0 +1,6517 @@
+{
+  "inlab": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 144153,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 20337,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 35306,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 51619,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HAI",
+              "rt": 46629,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 51824,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 66099,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 61068,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 16686,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 16628,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "2",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 146626,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 32742,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 45969,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 66202,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 65702,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "master",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 36334,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 54961,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "3",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 73833,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 103697,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "pg",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 20922,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv249_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 22105,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 23769,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv91_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 57815,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv15_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 85776,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 41038,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 25452,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 15392,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv249_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 71478,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 14782,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv244_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 80733,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv89_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 50597,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv138_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "Singapore"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 38276,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "Spain"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 21075,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "no",
+          "education": "pg",
+          "country": "China"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 42561,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 79413,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 51397,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "Hong Kong"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 29186,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 25446,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 78569,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 46713,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 71469,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 34951,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "no",
+          "education": "master",
+          "country": "Italy"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 76347,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "prolific": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 18896,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv199_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 23346,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 50410,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 194991,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv244_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "non binary",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 53737,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 19797,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 42301,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 21980,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv244_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 99031,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 78438,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv199_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 59275,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv138_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 26100,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 98785,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 13943,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 119044,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 38997,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 73190,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 43677,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 42569,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 29129,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 45710,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HAI",
+              "rt": 48275,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 26532,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 20243,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 39484,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 23714,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 491098,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv199_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 129811,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 142479,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 113466,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 14239,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 57532,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 27224,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 19739,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 16718,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv249_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 12611,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 18251,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 47335,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv15_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 88708,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 79316,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 66080,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 71607,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv199_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 17787,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv244_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 14326,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 32707,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv244_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 80769,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len9.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 51581,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 70608,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "3",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 96171,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv199_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 17840,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv244_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 86344,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv273_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 20451,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv138_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 39813,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 7633,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HAI",
+              "rt": 196003,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv199_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 44159,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv244_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 30942,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv273_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 20386,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 22919,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 35025,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv89_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 16786,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv247_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "non binary",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 88378,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 61006,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 45710,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv271_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 33815,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv244_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "46-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 20684,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv247_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 128515,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv199_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 39572,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 24804,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 15074,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv89_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 18807,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv15_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 62062,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 40175,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv91_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 44942,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv247_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 38100,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv249_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 17776,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv249_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 22695,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv91_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "18-20",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "HAI",
+              "rt": 23880,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv271_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HAI",
+              "rt": 26231,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 47142,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv199_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 16822,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv91_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 22341,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 25878,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 17798,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv121_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 15552,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv138_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 68292,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 20331,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "static/dataset/conv199_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "mturk": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 79485,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv138_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "2",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 123547,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 38131,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 67590,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 73927,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 17639,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 21797,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 139931,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 46668,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 76810,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 74078,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 39228,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv91_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 89109,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 138459,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv91_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 18495,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 20160,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 13534,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 27430,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 23033,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 57335,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv138_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 13836,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 33702,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 83140,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 46791,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 22665,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 60074,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 33897,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 21255,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv85_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 24987,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 101169,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 76108,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 100332,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 27657,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 16651,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 39313,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 24463,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 30294,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 23391,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 76446,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 33600,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 33979,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 82374,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIH",
+              "rt": 58646,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv76_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 50616,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 29672,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 63072,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 127088,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 68998,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 13772,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 33221,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "3",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 77939,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 24981,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 12791,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 14398,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 69321,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 10793,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len9.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 43214,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv199_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 13052,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 40073,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 23289,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 9144,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 46210,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 101747,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 8162,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 10531,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "middle school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HAI",
+              "rt": 40420,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 65712,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 52864,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv249_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 52698,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 21022,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 17967,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 48712,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 40318,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 91954,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 229689,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 59457,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 26198,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 17986,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 22495,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 26656,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len9.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 29463,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 29387,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 76319,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 12829,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 23450,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 10564,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 103073,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 28683,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIH",
+              "rt": 54866,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 12791,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 44854,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 45369,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 26867,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 12197,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "pg",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 11981,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 9606,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 199,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 69608,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv199_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 46917,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 88403,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States Minor Outlying Islands"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 12036,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len3.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 20839,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 32987,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv244_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 35611,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIH",
+              "rt": 56066,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 60446,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIH",
+              "rt": 16320,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 30441,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv15_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 19168,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len6.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 6,
+              "Aclass": "AIAI",
+              "rt": 15859,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 58463,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv138_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "AIAI",
+              "rt": 54156,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 73943,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "AIH",
+              "rt": 88177,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 24,
+              "Aclass": "AIH",
+              "rt": 82320,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv273_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 41105,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 13250,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 36319,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 12,
+              "Aclass": "HAI",
+              "rt": 27644,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 13054,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 48103,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 14424,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 138,
+              "topic": "1",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 78393,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv138_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HAI",
+              "rt": 13945,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 15,
+              "Aclass": "AIAI",
+              "rt": 37186,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 20044,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 25628,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIH",
+              "rt": 31684,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HAI",
+              "rt": 52525,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 56644,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 273,
+              "topic": "2",
+              "hit_len": 24,
+              "Aclass": "HAI",
+              "rt": 23402,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv273_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 76,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 26861,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv76_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 22981,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv247_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 19993,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "26-30",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "AIAI",
+              "rt": 45640,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len24.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 18,
+              "Aclass": "HH",
+              "rt": 25758,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len18.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "AIAI",
+              "rt": 14367,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 29803,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len9.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 77974,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 28075,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv271_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 24,
+              "Aclass": "HH",
+              "rt": 32653,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len24.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 19401,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 6,
+              "Aclass": "HH",
+              "rt": 23598,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv91_len6.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 19226,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv15_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 40660,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIAI",
+              "rt": 27182,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 26749,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "HH",
+              "rt": 105524,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 271,
+              "topic": "2",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 36630,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv271_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "master",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 36186,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv91_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HAI",
+              "rt": 67545,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 247,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 70806,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv247_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 9,
+              "Aclass": "HH",
+              "rt": 12263,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len9.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 85,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 14990,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv85_len15.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 143613,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv121_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 18,
+              "Aclass": "HAI",
+              "rt": 44807,
+              "Agender": "F",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv89_len18.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "31-35",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 12636,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv91_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 244,
+              "topic": "4",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 28150,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv244_len12.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 249,
+              "topic": "4",
+              "hit_len": 3,
+              "Aclass": "AIH",
+              "rt": 13745,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv249_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "45-50",
+          "native": "yes",
+          "education": "high school",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 89,
+              "topic": "4",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 37185,
+              "Agender": "F",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv89_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "36-40",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "1",
+              "hit_len": 12,
+              "Aclass": "AIAI",
+              "rt": 37993,
+              "Agender": "M",
+              "Bgender": "M",
+              "conversationID": "static/dataset/conv15_len12.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "41-45",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "United States"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 91,
+              "topic": "4",
+              "hit_len": 15,
+              "Aclass": "HH",
+              "rt": 54305,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv91_len15.html",
+              "assigned_topic": "books"
+            }
+          },
+          {
+            "trialdata": {
+              "hit": 121,
+              "topic": "5",
+              "hit_len": 3,
+              "Aclass": "HH",
+              "rt": 58492,
+              "Agender": "M",
+              "Bgender": "F",
+              "conversationID": "static/dataset/conv121_len3.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "chatgpt": {
+    "datastring": [
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "AIAI",
+              "rt": 20049,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 22576,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "non_binary",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 19396,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 58164,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 14,
+              "Aclass": "AIAI",
+              "rt": 59644,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len14.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "Sudan"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 66846,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "AIH",
+              "rt": 83061,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "31-35",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "AIH",
+              "rt": 42401,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "18-20",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "HAI",
+              "rt": 34094,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "36-40",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "AIAI",
+              "rt": 48200,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "45-50",
+          "native": "yes",
+          "education": "pg",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 21,
+              "Aclass": "AIAI",
+              "rt": 31522,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 28723,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 14,
+              "Aclass": "HH",
+              "rt": 86391,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len14.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "female",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 7,
+              "Aclass": "HH",
+              "rt": 17135,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len7.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      },
+      {
+        "questiondata": {
+          "gender": "male",
+          "age": "21-25",
+          "native": "yes",
+          "education": "bachelor",
+          "country": "India"
+        },
+        "data": [
+          {
+            "trialdata": {
+              "hit": 15,
+              "topic": "sports",
+              "hit_len": 21,
+              "Aclass": "HH",
+              "rt": 19009,
+              "Agender": 0,
+              "Bgender": 0,
+              "conversationID": "Mranmey_chatgpt_dataset_woGender/conv15_len21.html",
+              "assigned_topic": "books"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

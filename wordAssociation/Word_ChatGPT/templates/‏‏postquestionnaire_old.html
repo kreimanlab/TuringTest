@@ -1,0 +1,152 @@
+<div id="container-questionnaire">
+    <h1>Task Complete</h1>
+    
+    <p>Before we finish, we need some general information about you.</p>
+    
+    Please choose your responses from the dropdown lists below:	
+	
+    <center>
+		<label for="Wgender">What is your gender? </label>
+		<select id="Wgender">
+		<option value="notchosen" selected>---Choose response---</option>
+		<option value="F"> Female </option>
+		<option value="M"> Male </option>
+		<option value="other"> None of the above </option>
+		</select>
+		<p> </p>
+		
+		<label for="Wage">What is your age range? </label>
+		<select id="Wage" onchange="dropdownMenu()">
+		<option value="notchosen" selected>---Choose response---</option>
+		<option value="0"> 0-10 years old </option>
+		<option value="1"> 10-20 years old </option>
+		<option value="2"> 20-30 years old </option>
+		<option value="3"> 30-40 years old </option>
+		<option value="4"> 40-50 years old </option>
+		<option value="5"> 50-60 years old </option>
+		<option value="6"> 60-70 years old </option>
+		<option value="7"> 70-80 years old </option>
+		<option value="8"> 80-90 years old </option>
+		</select>
+		<p> </p>
+		
+		<label for="Wlanguage">Is English your native language? </label>
+		<select id="Wlanguage">
+		<option value="notchosen" selected>---Choose response---</option>
+		<option value="Y"> Yes </option>
+		<option value="N"> No </option>
+		</select>
+		<p> </p>
+		
+		<label for="Wdegree">What is your highest degree of education? </label>
+		<select id="Wdegree">
+		<option value="notchosen" selected>---Choose response---</option>
+		<option value="0"> Elementary school </option>
+		<option value="1"> Middle school </option>
+		<option value="2"> High school </option>
+		<option value="3"> Bachelor </option>
+		<option value="4"> Master </option>
+		<option value="5"> PhD </option>
+		</select>
+		<p> </p>
+		
+		<label for="Wfield">Have you work or studied in any of these fields? </label>
+		<select id="Wfield">
+		<option value="notchosen" selected>---Choose response---</option>
+		<option value="0"> Biology/ Chemistry </option>
+		<option value="1"> Business/ Economics </option>
+		<option value="2"> Computer Science </option>
+		<option value="3"> Communications/ Political Science </option>
+		<option value="4"> Education </option>
+		<option value="5"> Engineering </option>
+		<option value="6"> English Language and Literature </option>
+		<option value="7"> Mathematics/ Physics </option>
+		<option value="8"> Neuroscience </option>
+		<option value="9"> Phychology </option>
+		<option value="10"> Visual and Performing Arts </option>
+		<option value="11"> None of the above </option>
+		</select>
+		<p> </p>
+		
+		</center>
+		
+		<b> Make sure you have selected all the answers before continuing </b>
+
+    <hr />
+
+    <p>You finished!  Thank you for your contributions to science. You will be eligible for full payment once you answer the following questions.</p>
+
+    <div class="instructions well">
+
+        <form id="postquiz" action="debrief" method="post">
+
+
+            <!-- beginning of a question -->
+            <div class="row question">
+                <div class="col-md-8">
+                    On a scale of 1-10 (where 10 is the most engaged), please rate how <b>ENGAGING</b> you found the learning task:
+                </div>
+                <div class="col-md-4">
+                    <select id="engagement" name="engagement">
+                        <option value="10">10 - Very engaging</option>
+                        <option value="9">9</option>
+                        <option value="8">8</option>
+                        <option value="7">7</option>
+                        <option value="6">6</option>
+                        <option value="5" SELECTED>5 - Moderately</option>
+                        <option value="4">4</option>
+                        <option value="3">3</option>
+                        <option value="2">2</option>
+                        <option value="1">1</option>
+                        <option value="0">0 - Not engaged</option>
+                    </select>
+                </div>
+            </div>
+            <!-- end of a question -->
+
+
+            <!-- beginning of a question -->
+            <div class="row question">
+                <div class="col-md-8">
+                    On a scale of 1-10 (where 10 is the most difficult), please rate how <b>DIFFICULT</b> you found the learning task:
+                </div>
+                <div class="col-md-4">
+                    <select id="difficulty" name="difficulty">
+                        <option value="10">10 - Very difficult</option>
+                        <option value="9">9</option>
+                        <option value="8">8</option>
+                        <option value="7">7</option>
+                        <option value="6">6</option>
+                        <option value="5" SELECTED>5 - Moderately difficult</option>
+                        <option value="4">4</option>
+                        <option value="3">3</option>
+                        <option value="2">2</option>
+                        <option value="1">1</option>
+                        <option value="0">0 - Not difficult at all</option>
+                    </select>
+                </div>
+            </div>
+            <!-- end of a question -->
+
+            
+        </form>
+    </div>
+
+    <hr />
+
+    <div class="instructionsnav">
+        <div class="row">
+            <div class="col-xs-2">
+            </div>
+            <div class="col-xs-7">
+            </div>
+            <div class="col-xs-3">
+                <button type="button" id="next" value="next" class="btn btn-primary btn-lg continue">
+                    Continue <span class="glyphicon glyphicon-arrow-right"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+</div>

@@ -1,0 +1,59 @@
+<div id="container-instructions">
+
+	<h1>Instructions</h1>
+
+	<hr />
+
+	<div class="instructions well">
+        Below is a sample trial.
+        <br>
+        1. In the clip below, <b>eye movements (yellow dots)</b> when viewing an image is shown.<br>
+        2. This clip plays repeatedly. <br>
+
+        </p>
+
+
+	    <script type="text/javascript">
+	    //console.log(psiTurk.getInstructionIndicator())
+	    </script>    
+
+	</div>      
+    <STRONG>Pay attention to the eye movements (yellow dots) freely viewing the image.</STRONG> <br>
+
+    <div class="container">
+        <div class="row">
+          <div class="span4"></div>
+            <div class="span4"><img class="center-block" src="https://prachimturk.s3.amazonaws.com/naturalsaliency_human/fig_naturalsaliency_subj05-er_img20_nfix17.gif" alt="stimuli" style="width:40%"/></div>
+          <div class="span4"></div>
+        </div>
+    </div>
+    <center>
+    Is the path of eye movements shown in this clip from <b>human</b> or <b>machine</b>? :<br>
+    <input type="radio" id="machine" name="choose_response" value="Machine">
+    <label for="machine">Machine</label>
+    <input type="radio" id="human" name="choose_response" value="Human" checked>
+    <label for="human">Human</label><br>
+
+
+    What do you see in the above image?:<br>
+    <input type="radio" id="A" name="choose_object" value="Lion">
+    <label for="A">Lion</label>
+    <input type="radio" id="B" name="choose_object" value="People" checked>
+    <label for="B">People</label>
+    <input type="radio" id="C" name="choose_object" value="Penguin">
+    <label for="C">Penguin</label><br>
+    </center>      
+    <br>
+    In the above clip, eye movements are from a human.<br>
+    Among the 3 options, "People" is the correct answer for what is seen in the image. <br>
+    <STRONG> Click submit to move to next trial.</STRONG>
+    <div class="instructionsnav">        
+        <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue" onclick="display_instructions_2()">
+                Next <span class="glyphicon glyphicon-arrow-right"></span>
+        </button>
+    </div>
+    
+
+	<hr />
+    
+</div>

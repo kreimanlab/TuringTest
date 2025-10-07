@@ -1,0 +1,8 @@
+*.pyc 
+*.DS_Store
+static/.DS_Store
+.psiturk_history
+.psiturk_history
+ankur_images
+.ipynb_checkpoints/
+

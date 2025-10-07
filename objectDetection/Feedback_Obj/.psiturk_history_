@@ -1,0 +1,8 @@
+server on
+hit create 50 2.00 24
+y
+ls
+n
+hit expire --all
+ls
+quit

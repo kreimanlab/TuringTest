@@ -1,0 +1,7 @@
+server.log
+.DS_Store
+.psiturk_history
+participants.db
+__pycache__/
+results.csv
+

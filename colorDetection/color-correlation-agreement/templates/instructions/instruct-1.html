@@ -1,0 +1,104 @@
+<head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+
+
+<div id="container-instructions">
+
+	<h1>Instructions</h1>
+
+	<hr />
+
+	<div class="instructions well">
+
+
+        <STRONG> Your task is to tag the dominant color of a given picture. We also ask you a simple yes/no question about the contents of image to ensure you pay attention.</STRONG>
+
+        <p>
+
+        You will be presented with 50 such pictures. In this example trial, the worker chose: 'No' the image contains wooden floor, and answered that the dominant color is white.
+    	<p>
+        Note: it might take 10 seconds to load the image, please do not refresh the browser during the experiment.
+
+        </div>
+    <br>
+
+
+    <center>
+    <h1>Please answer below.</h1>
+    <img src="https://images.squarespace-cdn.com/content/v1/5b973a46266c074882a14f43/1701571845034-8G0Y2QLJS19YB1D8A7U7/winter+vt.jpg" alt="stimuli" height="512">
+
+    </center>
+    <div id="container-exp">
+        <div class="container">
+            <div id="trial">
+                <center>
+                  <table>
+                      <tr>
+                          <td style="max-width:300px;">
+                              <b>Does the image contain the following - "wooden floor"? </b>
+                              <div id="stim"></div>
+
+                              <center>
+                              <form>
+                              <input type="radio" id="topic1" name="topic" value="1" checked="checked">
+                                <label for="topic1"> Yes </label><br>
+                                <input type="radio" id="topic2" name="topic" value="2">
+                                <label for="topic2"> No </label><br>
+                              </form>
+                              </center>
+                          </td>
+
+                        <td style="max-width:300px;">
+                            <!-- beginning of a question -->
+                            <div class="row question">
+                                <div class="col-md-8">
+                                    <b>What is the dominant color in this picture? </b>
+                                </div>
+                                <div class="col-md-4">
+                                    <select id="color" name="color" class="form-control">
+                                        <option disabled selected value> -- select an option -- </option>
+                                        <option value="red">red</option>
+                                        <option value="orange">orange</option>
+                                        <option value="yellow">yellow</option>
+                                        <option value="purple">purple</option>
+                                        <option value="green">green</option>
+                                        <option value="blue">blue</option>
+                                        <option value="brown">brown</option>
+                                        <option value="gray">gray</option>
+                                        <option value="black">black</option>
+                                        <option value="white">white</option>
+                                    </select>
+                                </div>
+                            </div>
+                        <!-- end of a question -->
+                      </td>
+
+                      </tr>
+                  </table>
+
+                  <div class="instructionsnav">
+                      <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue" onclick="instruct_ready()">
+                              Next <span class="glyphicon glyphicon-arrow-right"></span>
+                      </button>
+                  </div>
+              </center>
+
+            </div>
+      </div>
+    </div>

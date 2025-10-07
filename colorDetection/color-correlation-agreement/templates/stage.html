@@ -1,0 +1,98 @@
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+
+<center>
+<h1>Please answer below.</h1>
+<br>Note: it might take 10 seconds to load the image, please do not refresh the browser.</br>
+<div id="container">
+<div id="stim"></div>
+<iframe width="500" height="100" frameBorder="0" id='stimresp' src=""></iframe>
+</div>
+</center>
+
+
+
+
+
+<div id="container-exp">
+    <div class="container">
+        <div id="trial">
+            <center>
+              <table>
+                  <div id="stim"></div>
+
+
+                  <tr>
+                      <td style="max-width:300px;">
+                          <!-- <b>Does the image contain the following - "wooden floor"? </b> -->
+
+                          <!-- <iframe id="stim" src="static/responses/trial_img_src.html"></ifram> -->
+                          <div id="stim2"></div>
+                          <center>
+                          <!-- <center> -->
+                          <form>
+                          <input type="radio" id="topic1" name="topic" value="1">
+                            <label for="topic1" id="topic1-label"> Yes </label><br>
+                            <input type="radio" id="topic2" name="topic" value="2">
+                            <label for="topic2" id="topic2-label"> No </label><br>
+                          </form>
+                          </center>
+                      </td>
+
+
+
+                      <td style="max-width:300px;">
+                        <!-- beginning of a question -->
+                        <div class="row question">
+                            <div class="col-md-8">
+                                <b>What is the dominant color in this picture? </b>
+                            </div>
+                            <div class="col-md-4">
+                                <select id="color" name="color" class="form-control">
+                                    <option value=""> -- select an option -- </option>
+                                    <option value="red">red</option>
+                                    <option value="orange">orange</option>
+                                    <option value="yellow">yellow</option>
+                                    <option value="purple">purple</option>
+                                    <option value="green">green</option>
+                                    <option value="blue">blue</option>
+                                    <option value="brown">brown</option>
+                                    <option value="gray">gray</option>
+                                    <option value="black">black</option>
+                                    <option value="white">white</option>
+                                </select>
+                            </div>
+                        </div>
+                        <!-- end of a question -->
+                      </td>
+
+
+                  </tr>
+              </table>
+
+              <div class="instructionsnav">
+                  <button type="button" id="submittrial" value="submittrial" class="btn btn-primary btn-lg pull-right">
+                          Submit <span class="glyphicon glyphicon-arrow-right"></span>
+                  </button>
+              </div>
+          </center>
+
+        </div>
+  </div>
+</div>

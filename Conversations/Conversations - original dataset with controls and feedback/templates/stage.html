@@ -1,0 +1,107 @@
+<div id="container-exp">
+	<div id="trial">
+		<head>
+			<style>
+		    iframe{
+		        width: 100%;
+		        border: 2px solid #ccc;
+			    }
+			</style>
+		</head>
+
+		<center>
+			<iframe id='stimdisplay' title="description"></iframe>
+
+			<script>
+				let iframe = document.querySelector("#stimdisplay");
+
+				window.addEventListener('message', function(e) {
+					// message that was passed from iframe page
+					let message = e.data;
+
+					iframe.style.height = message.height + 'px';
+					iframe.style.width = message.width + 'px';
+				} , false);
+			</script>
+		</center>
+
+		
+		<center>Choose your responses from the lists below:</center>
+		
+		<center>
+		<div id="stim"></div>			
+		
+		<form> <b>The conversation topic is: </b>
+		<label class="radio-inline">
+		<input type="radio" id="topic1" name="topic" value="1"> <iframe id='stimopt1' style="height:27px;width:90px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic2" name="topic" value="2"><iframe id='stimopt2' style="height:27px;width:90px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic3" name="topic" value="3"><iframe id='stimopt3' style="height:27px;width:90px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic4" name="topic" value="4"><iframe id='stimopt4' style="height:27px;width:90px;border:0px;" ></iframe>
+		</label>
+		<label class="radio-inline">
+		<input type="radio" id="topic5" name="topic" value="5"><iframe id='stimopt5' style="height:27px;width:90px;border:0px;" ></iframe>
+		</label>
+		<input type="hidden" id="topicnotchosen" name="topic" value="notchosen" checked="checked"> 
+		</form>
+		
+		<p>  </p>	
+
+		<form> <b>Which option is correct? </b><br>
+		<label class="radio-inline">
+		<input type="radio" id="Aclass1" name="Aclass" value="HH"> A=human, B=human
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass2" name="Aclass" value="HAI"> A=human, B=machine
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass3" name="Aclass" value="AIH"> A=machine, B=human
+		</label><br>
+		<label class="radio-inline">
+		  <input type="radio" id="Aclass4" name="Aclass" value="AIAI"> A=machine, B=machine
+		</label><br>
+		<input type="hidden" id="Aclassnotchosen" name="Aclass" value="notchosen" checked="checked">
+		</form>
+
+		<form> <b>  The gender of A is: </b>
+		<label class="radio-inline">
+		  <input type="radio" id="Agender1" name="Agender" value="F">female
+		</label>
+		<label class="radio-inline">
+		  <input type="radio" id="Agender2" name="Agender" value="M">male
+		</label>
+		<input type="hidden" id="Agendernotchosen" name="Agender" value="notchosen" checked="checked">
+		</form>
+				
+		<p>  </p>
+
+		<form> <b>  The gender of B is: </b>
+		<label class="radio-inline">
+		  <input type="radio" id="Bgender1" name="Bgender" value="F">female 
+		</label>
+		<label class="radio-inline">
+		  <input type="radio" id="Bgender2" name="Bgender" value="M">male
+		</label>
+		<input type="hidden" id="Bgendernotchosen" name="Bgender" value="notchosen" checked="checked">
+
+		</form>
+
+		
+		<p> Make sure you have selected all the 4 answers before continuing </p>
+		<button type="button" id="submittrial" value="submittrial" class="btn btn-primary btn-lg pull-right">
+                Submit <span class="glyphicon glyphicon-arrow-right"></span>
+        </button> 
+		
+		<div id="feedback-box" style="margin-top: 20px; font-weight: bold; color: blue;"></div>
+		<button id="nexttrial" style="display: none;" class="btn btn-success">Next Trial</button>
+		
+    	<div id="demo"></div>
+    	</center>
+
+	</div>
+</div>

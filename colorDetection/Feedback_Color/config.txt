@@ -1,0 +1,48 @@
+[HIT Configuration]
+title = Comparing humans and machines at Image tagging
+description = Make selections based on image and text prompts.
+amt_keywords = image, tagging, captioning, psychology
+lifetime = 72
+us_only = false
+#approve_requirement = 
+#number_hits_approved = 
+require_master_workers = false
+#contact_email_on_error =
+ad_group = Image tagging
+psiturk_keywords = context, gif tagging
+#organization_name =
+browser_exclude_rule = MSIE, mobile, tablet
+allow_repeats = false
+
+[Database Parameters]
+database_url = sqlite:///turing_feedback_color.db
+table_name = tablechairDB
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22366
+cutoff_time = 30
+logfile = server.log
+loglevel = 2
+debug = true
+#login_username = 	
+#login_pw = 
+threads = auto
+secret_key = 'this is my secret key which is hard to guess, i should change this'
+#certfile = <path_to.crt> 
+#keyfile = <path_to.key>
+
+[Task Parameters]
+experiment_code_version = 1.0
+num_conds = 1
+num_counters = 1
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
+
+# If you are not using the psiturk ad server, set `use_psiturk_ad_server` to `false` and point `ad_location` to your proxy server <host> and <port>. Format the ad_location like this:
+#
+#   https://<host>:<port>/ad 
+
+use_psiturk_ad_server = false
+ad_location = https://nhbturing2.psiturkdncl.online:443/ad

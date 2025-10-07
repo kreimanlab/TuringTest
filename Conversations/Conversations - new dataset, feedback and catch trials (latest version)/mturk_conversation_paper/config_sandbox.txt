@@ -1,0 +1,47 @@
+[HIT Configuration]
+title = Conversation labeling
+description = Label the speakers of a conversation as human or machines (AI chatbot)
+amt_keywords = speech, tagging, classifying, psychology
+lifetime = 20
+us_only = true
+approve_requirement = 1
+number_hits_approved = 0
+contact_email_on_error = giorgia.dellaferrera@gmail.com
+ad_group = Conversation labeling
+psiturk_keywords = conversation labeling
+organization_name = Boston Children's Hospital, Harvard Medical School
+browser_exclude_rule = MSIE, mobile, tablet
+allow_repeats = true
+
+[Database Parameters]
+database_url = sqlite:///participants.db
+table_name = TuringConversationalAI
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22362
+cutoff_time = 30
+logfile = server.log
+loglevel = 2
+debug = true
+login_username = mengmi	
+login_pw = mengmi
+threads = auto
+secret_key = 'this is my secret key which is hard to guess, i should change this'
+#certfile = <path_to.crt> 
+#keyfile = <path_to.key>
+
+[Task Parameters]
+experiment_code_version = 1.0
+num_conds = 1
+num_counters = 1
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
+
+# If you are not using the psiturk ad server, set `use_psiturk_ad_server` to `false` and point `ad_location` to your proxy server <host> and <port>. Format the ad_location like this:
+#
+#   https://<host>:<port>/ad 
+
+use_psiturk_ad_server = true
+ad_location = false

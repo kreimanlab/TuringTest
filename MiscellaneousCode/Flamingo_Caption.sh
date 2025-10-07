@@ -1,0 +1,2 @@
+# nohup python Flamingo_Caption.py > /home/liuxiao/TuringGithub/XiaoData/xiao_logs/flamingo_caption.log 2>&1 &
+nohup python Flamingo_Caption_Rebuttal_R3.8.py > /home/liuxiao/TuringGithub/XiaoData/xiao_logs/flamingo_caption_rebuttal_r3.8.log 2>&1 &

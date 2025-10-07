@@ -1,0 +1,32 @@
+<div id="container-exp">
+	<div id="trial">
+		<!-- <h1>Respond Quickly!</h1> -->
+		<!-- <p>Is the scanpath shown in this image from the <b>HUMAN EYE</b> or a <b>MACHINE</b>?</p> -->
+		Pay attention to the <b>eye movements (yellow dots)</b> viewing the image. 
+		<p id="note"><br> The first image may take longer to load (usually around 15 seconds). Please do not refresh the browser and wait patiently.</p>
+		<div id="stim"></div>			
+		<!-- <center>Type machine or human :</center>	
+		<center><input id="response" name="response" value="" required="" size="30" type="text" /></center> -->
+		<!-- for mcq -->
+		<center id="stage-q-hm">Is the path of eye movements shown in this clip from <b>human</b> or <b>machine</b>?:</center>
+		<!-- <center id="feedback">test</center> -->
+		<input type="radio" id="machine" name="choose_response" value="Machine">
+		<label for="machine" id="machine-label">Machine</label>
+		<input type="radio" id="human" name="choose_response" value="Human">
+		<label for="human" id="human-label">Human</label><br>
+
+		<center id="stage-q-obj">What do you see in the above image?:</center>
+		<input type="radio" id="A" name="choose_object" value="Option 1">
+		<label for="A" id="A-label">Option 1</label>
+		<input type="radio" id="B" name="choose_object" value="Option 2">
+		<label for="B" id="B-label">Option 2</label>
+		<input type="radio" id="C" name="choose_object" value="Option 3">
+		<label for="C" id="C-label">Option 3</label><br>
+
+
+		<button type="button" id="submittrial" value="submittrial" class="btn btn-primary btn-lg pull-right">
+                Submit <span class="glyphicon glyphicon-arrow-right"></span>
+        </button>        
+    	<div id="demo"></div>
+	</div>
+</div>
