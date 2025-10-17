@@ -2,7 +2,7 @@
 
 Authors: Mengmi Zhang, Elisa Pavarino, Xiao Liu, Giorgia Dellaferrera, Ankur Sikarwar, Caishun Chen, Marcelo Armendariz, Noga Mudrik, Prachi Agrawal, Spandan Madan, Mranmay Shetty, Andrei Barbu, Haochen Yang, Tanishq Kumar, Shui'Er Han, Aman Raj Singh, Meghna Sadwani, Stella Dellaferrera, Michele Pizzochero, Brandon Tang, Yew Soon Ong, Hanspeter Pfister, and Gabriel Kreiman
 
-This repository contains an implementation of the Turing tests in six vision and language tasks. Our paper is currently under review.
+This repository contains an implementation of the Turing-like tests in six vision and language tasks. Our paper is currently under review.
 
 Access to our unofficial manuscript [HERE](https://arxiv.org/abs/2211.13087)
 
@@ -34,7 +34,7 @@ The zip consists of six folders corresponding to all the six tasks:
 
 -Task 6: ```attention_prediction_task```
 
-Go to each of these folders and unzip ```MturkExps.zip```. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing tests. 
+Go to each of these folders and unzip ```MturkExps.zip```. Each of these AMT folders has two experiments: one is to collect responses from human agents for Turing dataset curation; the other is to collect responses from human judges in the actual Turing-like tests. 
 
 The instructions for setting up these AMT experiments are the same as instructed in ***Human Psychophysics Experiments on Amazon Mechanical Turk*** from this github respository [HERE](https://github.com/kreimanlab/Put-In-Context/blob/master/README.md).
 
