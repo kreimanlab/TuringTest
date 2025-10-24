@@ -118,6 +118,100 @@ For the three vision tasks, go to ```TuringGithub\attention_prediction_task\Plot
 Task4_6_ConfmatOverall
 Task4_6_LayoutFigures
 ```
+## Benchmark Your Model
+
+This repository provides a **zero-shot AI judge benchmarking tool** to evaluate your model’s detectability across five tasks:
+
+| Task | Number of Stimuli for AI Agents |
+|------|-------------------|
+| Word Association | 150 |
+| Image Captioning | 1000 |
+| Color Detection | 873 |
+| Object Detection | 808 |
+| Free Viewing | 240 |
+
+Follow the steps below to run the benchmark.
+
+
+###  Step 1: Generate Model Responses
+
+Use the stimuli provided under  
+```bash
+/benchmarking/stimuli
+```
+
+Your model should generate one response per stimulus. Save the results as a Python dictionary and export it to JSON format. Please use the file names of provided stimuli as the dictionary keys. For example:
+
+```python
+{ 
+  "1017.jpg": "green", 
+  "672.jpg": "gray",
+  ...
+}
+```
+For the word association task, please use the provided cue words as the dictionary keys.
+
+
+### Step 2: Organize Response Files
+
+If you wish to automatically evaluate all five tasks, name your response files as follows and place them in a single folder under `/benchmarking/`:
+
+| Task | File Name |Response Format| Response Example |
+|------|------------|----------------|----------------|
+| Word Association | `word.json` | `str`| `"neural"`|
+| Image Captioning | `caption.json` |`str` | `"a plate of carrots and broccoli on a table"`
+| Color Detection | `color.json` |`str` | `"brown"`
+| Object Detection | `object.json` | a `str` containing top three objects, separated by `,`| `"forehead, nose, hair"`|
+| Free Viewing | `fv.json` | a `list` of numeric coordinates| `[[644, 644], [694, 644], [644, 694]] `|
+
+
+
+### Step 3: Set Up OpenAI API Access
+
+This benchmark uses **ChatGPT** as a zero-shot AI judge.  
+You’ll need an **OpenAI API key** to run evaluations.  
+Refer to [OpenAI’s API key guide](https://platform.openai.com/docs/quickstart/create-and-export-an-api-key) for setup instructions.
+
+Set your API key in the terminal:
+
+```bash
+export OPENAI_API_KEY=YOUR_API_KEY
+```
+
+### Step 4: Run the Evaluation
+
+Navigate to the `/benchmarking` directory and run:
+
+**Evaluate a single task:**
+```bash
+python eval.py -t caption -rfp PATH_TO_RESPONSE_FILE -n YOUR_MODEL_NAME
+```
+
+**Evaluate all tasks:**
+```bash
+python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME
+```
+
+**Optional arguments:**
+- `--num_trial` / `--nt`: Maximum number of attempts the AI judge will retry each response until a valid judgment is produced.  
+- `--save`: Save the AI judge’s outputs to a file.
+
+
+### Notes
+
+- The paper uses **`chatgpt-4o-latest`** as the AI judge.  
+  If the model is deprecated, please check [OpenAI’s model list and pricing](https://platform.openai.com/docs/pricing) for alternatives.  
+  *Estimated cost to evaluate all five tasks: ≈ USD 30.*
+
+- Ensure that file naming and folder structure follow the provided format.  
+  Example response files can be found under `/responses`.
+
+- We recommend running long evaluations using `nohup`, `screen`, or `tmux`, and redirecting output to a log file. For example:
+  ```bash
+  nohup python eval.py -t all -rfp PATH_TO_FOLDER -n YOUR_MODEL_NAME > out.log 2>&1 &
+  ```
+
+
 ## Instructions for the post-rebuttal repository
 Access to our code, data, results, and plots after the rebuttal [HERE](https://drive.google.com/drive/folders/17xp1r3KeQVjCZ5yw4wa8epoVN6gLsVVg?usp=sharing)
 
