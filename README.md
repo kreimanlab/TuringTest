@@ -199,7 +199,7 @@ python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME --api_key 
 
 ### Notes
 
-- The repository uses **`text-embedding-3-small`** for the SVM judge in `Image Captioning` and `Object Detection` tasks and  **`chatgpt-4o-latest`** as the zero-shot AI judge for all five tasks.  
+- The repository uses **`text-embedding-3-small`** for the SVM judge in `Word Association`, `Image Captioning` and `Object Detection` tasks and  **`chatgpt-4o-latest`** as the zero-shot AI judge for all five tasks.  
   If the model is deprecated, please check [OpenAI’s model list and pricing](https://platform.openai.com/docs/pricing) for alternatives.  
 
 - Ensure that file naming and folder structure follow the provided format.  
