@@ -3,12 +3,13 @@ import re
 import base64
 import os
 import json
+from svm_judge import run_SVM_judge
 # Function to encode the image
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def check_response(response, task):
+def check_response_zs(response, task):
     if task in ["caption", "color", "word"]:
         assert type(response) == str, '''Response Type Error: The response should be a string, but receiving {}. (Input response: {})'''.format(type(response), response)
     elif task == "object":
@@ -30,12 +31,32 @@ def check_response(response, task):
 
                 assert y.isnumeric(), '''Response Content Error: The response should contain numeric coordinates where x ∈ [0, 1280) and y ∈ [0, 1024), but receiving {} in response {}.'''.format(y, response)
  
+def check_response_svm(response, task):
+    if task in ["color", "word","caption","object"]:
+        assert type(response) == str, '''Response Type Error: The response should be a string, but receiving {}. (Input response: {})'''.format(type(response), response)
 
-def check_input_file(responses_to_evaluate, task, exisiting_response_dictionary):
+    elif task == "fv":
+        assert type(response) == list and np.all([len(_)==2 for _ in response]), '''Response Type Error: The response should be a list of coordinates, but receiving {}. (Input response: {})'''.format(type(response), response)
+        for x,y in response:
+            if (type(x) == int or type(x) == float) and (type(y) == int or type(y) == float):
+                continue
+
+            if type(x) == str:
+
+                assert x.isnumeric(), '''Response Content Error: The response should contain numeric coordinates where x ∈ [0, 1280) and y ∈ [0, 1024), but receiving {} in response {}.'''.format(x, response)
+            if type(y) == str:
+
+                assert y.isnumeric(), '''Response Content Error: The response should contain numeric coordinates where x ∈ [0, 1280) and y ∈ [0, 1024), but receiving {} in response {}.'''.format(y, response)
+    
+
+def check_input_file(responses_to_evaluate, task, exisiting_response_dictionary, mode):
     assert type(responses_to_evaluate) == dict, '''Input File Type Error: The input file should be a dictionary, following the structure of {"stimulus_ID_1": Response_1}, but receiving {}'''.format(type(responses_to_evaluate))
     for stimulus, response in responses_to_evaluate.items():
         assert stimulus in exisiting_response_dictionary.keys(), '''Stimulus Error: Stimulus {} does not exist in the test set, please double check your input file.'''.format(stimulus)
-        check_response(response, task)
+        if mode == "svm":
+            check_response_svm(response, task)
+        else:
+            check_response_zs(response, task)
 
 def construct_confmat(model_to_evaluate):
     labels = ["h_{}".format(model_to_evaluate)]
@@ -114,7 +135,11 @@ def findanswer(text, nTrials):
     else:
         return findanswerGeneral(text, nTrials)
 
-def evaluate(stimuli_rootexisiting_response_dictionary,task,responses_to_evaluate,prompt_format,opt,client,max_tokens):
+def evaluateSVM(stimuli_root, exisiting_response_dictionary,task,responses_to_evaluate,api_key):
+    accuracies, avg_acc, avg_std, sum_conf_matrix = run_SVM_judge(exisiting_response_dictionary, responses_to_evaluate,task,api_key)
+    return accuracies, avg_acc, avg_std, sum_conf_matrix
+
+def evaluate(stimuli_root, exisiting_response_dictionary,task,responses_to_evaluate,prompt_format,opt,client,max_tokens):
     judge_results = {}
 
     for stimulus, trials in exisiting_response_dictionary.items():

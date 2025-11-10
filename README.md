@@ -184,27 +184,28 @@ Navigate to the `/benchmarking` directory and run:
 
 **Evaluate a single task:**
 ```bash
-python eval.py -t caption -rfp PATH_TO_RESPONSE_FILE -n YOUR_MODEL_NAME
+python eval.py -t caption -rfp PATH_TO_RESPONSE_FILE -n YOUR_MODEL_NAME --api_key YOUR_API_KEY
 ```
 
 **Evaluate all tasks:**
 ```bash
-python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME
+python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME --api_key YOUR_API_KEY
 ```
 
 **Optional arguments:**
+- `--mode` / `-m`: You can either choose zero-shot judge (`-m "zs"`) or SVM judge (`-m "svm"`).
 - `--num_trial` / `--nt`: Maximum number of attempts the AI judge will retry each response until a valid judgment is produced.  
 - `--save`: Save the AI judge’s outputs to a file.
 
-
 ### Notes
 
-- The paper uses **`chatgpt-4o-latest`** as the AI judge.  
+- The repository uses **`text-embedding-3-small`** for the SVM judge in `Image Captioning` and `Object Detection` tasks and  **`chatgpt-4o-latest`** as the zero-shot AI judge for all five tasks.  
   If the model is deprecated, please check [OpenAI’s model list and pricing](https://platform.openai.com/docs/pricing) for alternatives.  
-  *Estimated cost to evaluate all five tasks: ≈ USD 30.*
 
 - Ensure that file naming and folder structure follow the provided format.  
   Example response files can be found under `/responses`.
+
+- The detectability score calcuated by our benchmarking function may be different from those reported in our paper, due to deprecations of specific models we used. If you wish to reproduce our results, please refer to our first section.
 
 - We recommend running long evaluations using `nohup`, `screen`, or `tmux`, and redirecting output to a log file. For example:
   ```bash
