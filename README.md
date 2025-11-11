@@ -167,8 +167,7 @@ If you wish to automatically evaluate all five tasks, name your response files a
 
 
 ### Step 3: Set Up OpenAI API Access
-
-This benchmark uses **ChatGPT** as a zero-shot AI judge.  
+ 
 You’ll need an **OpenAI API key** to run evaluations.  
 Refer to [OpenAI’s API key guide](https://platform.openai.com/docs/quickstart/create-and-export-an-api-key) for setup instructions.
 
@@ -193,7 +192,7 @@ python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME --api_key 
 ```
 
 **Optional arguments:**
-- `--mode` / `-m`: You can either choose zero-shot judge (`-m "zs"`) or SVM judge (`-m "svm"`).
+- `--mode` / `-m`: You can either choose zero-shot judge (`-m zs`) or SVM judge (`-m svm`).
 - `--num_trial` / `--nt`: Maximum number of attempts the AI judge will retry each response until a valid judgment is produced.  
 - `--save`: Save the AI judge’s outputs to a file.
 
