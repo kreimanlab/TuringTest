@@ -193,7 +193,7 @@ python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME --api_key 
 
 **Optional arguments:**
 - `--mode` / `-m`: You can either choose zero-shot judge (`-m zs`) or SVM judge (`-m svm`).
-- `--num_trial` / `--nt`: Maximum number of attempts the AI judge will retry each response until a valid judgment is produced.  
+- `--num_trial` / `--nt`: Maximum number of attempts the **zero-shot AI judge** will retry each response until a valid judgment is produced.  
 - `--save`: Save the AI judge’s outputs to a file.
 
 ### Notes
