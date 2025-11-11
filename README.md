@@ -120,7 +120,7 @@ Task4_6_LayoutFigures
 ```
 ## Benchmark Your Model
 
-This repository provides a **zero-shot AI judge benchmarking tool** to evaluate your model’s detectability across five tasks:
+This repository provides an **AI judge benchmarking tool** to evaluate your model’s detectability across five tasks:
 
 | Task | Number of Stimuli for AI Agents |
 |------|-------------------|
