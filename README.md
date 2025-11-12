@@ -211,14 +211,6 @@ python eval.py -t all -rfp PATH_TO_RESPONSE_FOLDER -n YOUR_MODEL_NAME --api_key 
   nohup python eval.py -t all -rfp PATH_TO_FOLDER -n YOUR_MODEL_NAME > out.log 2>&1 &
   ```
 
-
-## Instructions for the post-rebuttal repository
-Access to our code, data, results, and plots after the rebuttal [HERE](https://drive.google.com/drive/folders/17xp1r3KeQVjCZ5yw4wa8epoVN6gLsVVg?usp=sharing)
-
-Follow the README_how_to_run_code.md
-
-For a quick glance, we provide the example source files within the ```imageCaptioning\Plot```. You may refer to the readme file inside the ```imageCaptioning\Plot\readme.md``` for more details.
-
 ## License
 
 See [Kreiman lab](http://klab.tch.harvard.edu/code/license_agreement.pdf) for license agreements before downloading and using our source codes and datasets.
