@@ -1,4 +1,4 @@
-# Can Machines Imitate Humans? Integrative Turing Tests for Vision and Language Demonstrate a Narrowing Gap
+# Can Machines Imitate Humans? Integrative Turing-like tests for Language and Vision Demonstrate a Narrowing Gap
 
 Authors: Mengmi Zhang, Elisa Pavarino, Xiao Liu, Giorgia Dellaferrera, Ankur Sikarwar, Caishun Chen, Marcelo Armendariz, Noga Mudrik, Prachi Agrawal, Spandan Madan, Mranmay Shetty, Andrei Barbu, Haochen Yang, Tanishq Kumar, Shui'Er Han, Aman Raj Singh, Meghna Sadwani, Stella Dellaferrera, Michele Pizzochero, Brandon Tang, Yew Soon Ong, Hanspeter Pfister, and Gabriel Kreiman
 
